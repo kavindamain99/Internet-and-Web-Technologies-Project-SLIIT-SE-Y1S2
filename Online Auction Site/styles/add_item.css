@@ -1,0 +1,140 @@
+.out-outer-wrapper {
+  padding-bottom: 100px;
+  padding-top: 130px;
+}
+
+.outer-wrapper {
+  max-width: 570px;
+  margin: 0 auto;
+}
+
+.reg-success-text {
+  text-align: center;
+  color: #0cd16ee8;
+}
+
+.hr-styles {
+  margin-bottom: 30px;
+}
+
+.card-wrapper {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.15);
+}
+
+.card-body {
+  padding: 57px 65px;
+  padding-bottom: 20px;
+}
+
+.title {
+  font-size: 26px;
+  color: #525252;
+  font-weight: 400;
+  margin-bottom: 30px;
+}
+
+.div-row {
+  margin-bottom: 25px;
+}
+
+.div-row-bottom {
+  margin-bottom: 30px;
+}
+
+.title-tag {
+  font-size: 16px;
+  color: #525252;
+  margin-bottom: 2px;
+}
+
+.input-label {
+  font-size: 16px;
+  color: #555;
+  text-transform: capitalize;
+  display: block;
+  margin-bottom: 5px;
+}
+
+.input-group {
+  margin-bottom: 22px;
+  margin: 20px;
+}
+
+.input-field {
+  line-height: 50px;
+  background: #04040421;
+  border-radius: 5px;
+  padding: 0 20px;
+  font-size: 16px;
+  color: #666;
+  transition: all 0.4s ease;
+  outline-color: slategray;
+  border-width: 2px;
+  border-color: #808080d6;
+  border: none;
+  width: 100%;
+}
+
+.input-field:focus {
+  outline-color: #cfcfcfd6;
+  outline-width: 0.7px;
+}
+
+.radio-input {
+  height: 13px;
+  width: 40px;
+  background-color: #e5e5e5;
+  border-radius: 50%;
+  box-shadow: inset 0px 1px 3px 0px rgba(0, 0, 0, 0.08);
+}
+
+.error {
+  color: red;
+  margin-top: 10px;
+  margin-left: 10px;
+  font-size: 13px;
+}
+
+.btn-blue {
+  background: #4272d7;
+}
+.btn-radius-2 {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+.btn {
+  border: none;
+  display: inline-block;
+  line-height: 50px;
+  padding: 0 50px;
+  transition: all 0.4s ease;
+  cursor: pointer;
+  font-size: 18px;
+  color: #fff;
+}
+
+.submit-btn-outer-div {
+  margin-top: 27px;
+  margin-bottom: 15px;
+}
+
+.text-dec-rm {
+  text-decoration: none;
+}
+
+.tag-bottom-text {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.btn-div-add {
+  margin-bottom: 53px;
+}
+
+.success {
+  color: #0cd16ee8;
+  margin-bottom: 30px;
+}

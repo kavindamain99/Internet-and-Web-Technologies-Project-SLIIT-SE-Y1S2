@@ -1,0 +1,11 @@
+.item-name{
+    display: inline-block;
+}
+
+.bid-price{
+    display: inline-block;
+}
+
+.bid-update-btn{
+    display: inline-block;
+}

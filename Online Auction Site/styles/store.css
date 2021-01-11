@@ -1,0 +1,48 @@
+.store-heading {
+  text-align: center;
+}
+
+.main-div {
+  margin: auto;
+  padding: 10px;
+}
+
+.store-form {
+  text-align: center;
+
+}
+
+.product-item {
+  /* width: 30%;
+    display: inline-block; */
+  width: 470px;
+  display: inline-block;
+  margin: auto;
+  
+}
+
+.item-image {
+  width: 280px;
+  height: 180px;
+}
+
+.item-name-style {
+  color: #005ce6;
+  font-weight: 700;
+  font-size: 19px;
+}
+
+.item-price-style {
+  color: red;
+  font-weight: 700;
+}
+
+.end-time-style {
+  font-size: 15px;
+  color: black;
+}
+
+.bid-now-btn{
+    height: 45px;
+    width: 110px;
+}

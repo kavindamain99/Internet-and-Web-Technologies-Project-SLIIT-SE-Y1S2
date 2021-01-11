@@ -1,0 +1,88 @@
+.view-items {
+  text-align: center;
+  margin: auto;
+}
+
+.outer-div-div{
+    width: 80%;
+    margin: auto;
+    margin-top: 50px;
+    
+}
+
+table {
+  width: 100%;
+  margin: 20px 0 40px;
+  border-radius: 1px;
+}
+
+table tbody tr:nth-child(odd) {
+  background-color: #f9f9fc;
+}
+
+table tbody tr td:first-child {
+  color: #9884fc;
+  font-weight: 600;
+}
+table tbody tr td {
+  padding: 15px 10px;
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: 400;
+}
+
+table tr th {
+  padding: 10px;
+  font-family: Open Sans, Helvetica, Arial, sans-serif;
+  font-size: 1rem;
+  background: #fff;
+  border-bottom: 3px solid #9884fc;
+}
+th {
+  text-align: inherit;
+}
+
+.delete_btn {
+  background-color: #9884fc;
+  border: none;
+  color: white;
+  padding: 12px 25px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.dashboard-btn {
+  text-decoration: none;
+}
+
+.hr-styles {
+  margin-bottom: 30px;
+}
+
+.outer-sub-class {
+  margin-left: 10px;
+  margin-bottom: 20px;
+  color: red;
+  font-size: 15px;
+}
+
+.outer-bottom {
+  margin-top: 30px;
+  margin-right: 44px;
+  text-align: right;
+}
+
+.title {
+    font-size: 26px;
+    color: #525252;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+
+.title-tag{
+    font-size: 16px;
+    color: #525252;
+    margin-bottom: 2px;
+}

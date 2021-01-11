@@ -1,0 +1,155 @@
+body,
+html {
+  height: 100%;
+  margin: 0;
+}
+body{
+
+  /* background-image: url("../img/bid.jpg"); */
+
+  /* Full height */
+  /* height: 100%;
+
+  /* background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; */ */
+}
+
+
+.out-outer-wrapper {
+  padding-bottom: 100px;
+  padding-top: 130px;
+}
+
+.outer-wrapper {
+  max-width: 680px;
+  margin: 0 auto;
+}
+
+.reg-success-text{
+    text-align: center;
+    color: #0cd16ee8;
+
+}
+
+.hr-styles{
+margin-bottom: 30px;
+}
+
+.card-wrapper {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.15);
+}
+
+.card-body {
+  padding: 57px 65px;
+  padding-bottom: 65px;
+}
+
+.title {
+    font-size: 26px;
+    color: #525252;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+
+.title-tag{
+    font-size: 16px;
+    color: #525252;
+    margin-bottom: 2px;
+}
+
+.input-label {
+  font-size: 16px;
+  color: #555;
+  text-transform: capitalize;
+  display: block;
+  margin-bottom: 5px;
+}
+
+.input-group {
+  margin-bottom: 22px;
+  margin: 20px;
+}
+
+.input-field {
+    line-height: 50px;
+    background: #04040421;
+    border-radius: 5px;
+    padding: 0 20px;
+    font-size: 16px;
+    color: #666;
+    transition: all 0.4s ease;
+    outline-color: slategray;
+    border-width: 2px;
+    border-color: #808080d6;
+    border: none;
+}
+
+.input-field:focus{
+    outline-color: #cfcfcfd6;
+    outline-width: 0.7px;
+}
+
+.radio-input {
+  height: 13px;
+  width: 40px;
+  background-color: #e5e5e5;
+  border-radius: 50%;
+  box-shadow: inset 0px 1px 3px 0px rgba(0, 0, 0, 0.08);
+}
+
+.div-row {
+  display: flex;
+}
+
+.radio_btn-inner-div {
+  margin-top: 13px;
+  margin-bottom: 33px;
+}
+
+.error {
+  color: red;
+  margin-top: 10px;
+  margin-left: 10px;
+  font-size: 13px;
+}
+
+.btn-blue {
+  background: #4272d7;
+}
+.btn-radius-2 {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+.btn {
+  border: none;
+  display: inline-block;
+  line-height: 50px;
+  padding: 0 50px;
+  transition: all 0.4s ease;
+  cursor: pointer;
+  font-size: 18px;
+  color: #fff;
+}
+
+.div-row-outer {
+  margin: 20px;
+}
+
+.submit-btn-outer-div {
+  margin-top: 27px;
+  margin-bottom: 60px;
+}
+
+.title-tag-bottom{
+    font-size: 16px;
+    color: #525252;
+    margin-bottom: 2px;
+}
+
+.tag-bottom-outer{
+    text-decoration: none;
+}
